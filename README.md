@@ -56,18 +56,15 @@ This table presents the results of linear probe evaluations comparing CLIP and M
 | Oxford-IIIT Pets | **96.27**          | 95.10                 |
 | Caltech-101    | **97.92**             | 96.00                 |
 | Flowers102     | **99.58**             | 99.20                 |
-
+| ImageNet       | **86.10**             | 85.40                 |
 ### Usage
 #### A. Installation
 
-##### 1. **Clone this repository and navigate to the LLaVA folder:**
+##### **Clone this repository and navigate to the LLaVA folder:**
 ```bash
 git clone https://github.com/deepglint/unicom
 cd unicom
-```
-
-##### 2. **Install the inference package:**
-```bash
+# 
 pip install --upgrade pip
 pip install -e ".[train]"
 ```
@@ -147,5 +144,5 @@ Thank you to all the contributors for their hard work and dedication!
 ```
 
 ## Acknowledgement
-[LLaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT): the codebase for training VLMs. Thanks for their wonderful work.
+[LLaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT): the codebase for training VLMs. Thanks for their wonderful work.  
 [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval): the tool for evaluating VLMs.

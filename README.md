@@ -2,6 +2,8 @@
 
 This repository focuses on creating foundational visual models through large-scale data, such as LAION400M and COYO700M, by employing sample-to-cluster contrastive learning. The models have been validated across various tasks, including multimodal visual large language models (e.g., LLaVA), image retrieval, and image classification.
 
+![image](https://github.com/user-attachments/assets/d037ef08-a72f-421a-bdb8-d9b187794989)
+
 
 
 ## MLCD

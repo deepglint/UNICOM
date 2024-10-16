@@ -6,7 +6,7 @@ This repository is dedicated to building foundational visual models using large-
 
 ---
 
-## Multi-Label Cluster Discrimination (MLCD) accepted by ECCV2024
+## Multi-Label Cluster Discrimination (MLCD)
 
 [[Paper]](https://arxiv.org/abs/2407.17331) | [[Hugging Face]](https://huggingface.co/DeepGlint-AI/mlcd-vit-large-patch14-336)
 
@@ -96,7 +96,7 @@ bash eval.sh
 ```
 
 
-## UNICOM accepted by ICLR2023
+## UNICOM
 
 [[Paper]](https://arxiv.org/abs/2304.05884) [[Google Drive]](https://drive.google.com/drive/folders/18wsNgZeNpjKAcIrWoffJ8o9UqmMHUBqN?usp=share_link)
 

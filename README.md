@@ -8,7 +8,7 @@ This repository is dedicated to building foundational visual models using large-
 
 ## Multi-Label Cluster Discrimination (MLCD)
 
-[[Paper]](https://arxiv.org/abs/2407.17331) | [[Hugging Face]](https://huggingface.co/DeepGlint-AI/mlcd-vit-large-patch14-336)
+[[Paper]](https://arxiv.org/abs/2407.17331) | [[Hugging Face]](https://huggingface.co/collections/DeepGlint-AI/mlcd-670d18d767cea37ea7436e69)
 
 While CLIP models have shown excellence in many tasks via image-text contrastive learning, they often struggle with encoding complex semantic structures within images. To address this limitation, we introduce **Multi-Label Cluster Discrimination (MLCD)**.
 

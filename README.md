@@ -19,9 +19,6 @@ MLCD improves upon traditional approaches by clustering the the LAION dataset, w
 #### A. MLLMs Evaluation Results
 To evaluate MLCD’s performance within multimodal large language models (MLLMs), we replaced the CLIP model in [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) with the MLCD model. We paired this with the [Qwen2.5-7B](https://huggingface.co/Qwen/Qwen2.5-7B) language model. For reproducibility, we utilized the [LLaVA-Pretrain](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain) dataset for pre-training and the [LLaVA-NeXT-Data](https://huggingface.co/datasets/lmms-lab/LLaVA-NeXT-Data) for structured fine-tuning. The evaluation results confirm that the MLCD model performs exceptionally well across multiple benchmarks, underscoring its effectiveness in MLLMs.
 
----
-
-Let me know if you'd like further changes!
 
 | Vision Tower    | MLCD (ViT_L_14_336px) | CLIP (ViT_L_14_336px) |
 |:----------------|:-------------|:-------------|
@@ -94,7 +91,7 @@ Install the evaluation tool and execute the evaluation script:
 pip install lmms-eval==0.2.0
 bash eval.sh
 ```
-
+---
 
 ## UNICOM
 
